@@ -1,4 +1,5 @@
 ---
+layout: ../../../layouts/Policy.astro
 title: Terms of Service
 description: All the terms that you agree to when you register for a Robomotion account.
 ---

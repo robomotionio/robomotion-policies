@@ -1,9 +1,10 @@
 ---
+layout: ../../../layouts/Policy.astro
 title: Robomotion Privacy Policy
 description: The privacy of your data — and it is your data, not ours! — is a big deal to us. Here’s the rundown of what we collect and why, when we access your information, and your rights.
 ---
 
-# Robomotion Privacy policy
+# Robomotion Privacy Policy
 
 *Last updated: July 18, 2022*
 
@@ -171,7 +172,7 @@ Legal bases for processing.  We use your personal information only as permitted 
 | Processing purpose | Legal basis |
 | --- | --- |
 | To operate the Service      | Processing is necessary to perform the contract governing our provision of the Service or to take steps that you request prior to signing up for the Service.  If we have not entered into a contract with you, we process your personal information based on our legitimate interest in providing the Service you access and request.       |
-| (1) To send you marketing communications. </br> (2) To manage our recruiting and process employment applications. </br> (3) For compliance, fraud prevention and safety. </br> (4) To create anonymous data   | These activities constitute our legitimate interests.  We do not use your personal information for these activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).        |
+| (1) To send you marketing communications. <br/> (2) To manage our recruiting and process employment applications. <br/> (3) For compliance, fraud prevention and safety. <br/> (4) To create anonymous data   | These activities constitute our legitimate interests.  We do not use your personal information for these activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).        |
 |To comply with law |Processing is necessary to comply with our legal obligations. |
 |With your consent |Processing is based on your consent.  Where we rely on your consent you have the right to withdraw it any time in the manner indicated when you consent or in the Service. |
 
