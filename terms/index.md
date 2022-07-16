@@ -196,12 +196,12 @@ You may choose to have the arbitration conducted by telephone, based on written 
 
 14.13 **Entire Agreement**. The Agreement is the final, complete and exclusive agreement of the parties with respect to the subject matter hereof and supersedes and merges all prior discussions between the parties with respect to such subject matter.
 
-## 14. **International Provisions**
+## 15. **International Provisions**
 
 Robomotion Properties can be accessed from countries around the world and may contain references to Services that are not available in your country. Robomotion makes no representations that the Website or the Services are appropriate or available for use in any location. Those who access or use the Website or the Services from other jurisdictions do so of their own volition and are responsible for compliance with local law. The following provisions shall apply only if you are located in the countries listed below:
 
-14.1 **United Kingdom** A third party who is not a party to this Agreement has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Agreement, but this does not affect any right or remedy of such third party which exists or is available apart from that Act.
+15.1 **United Kingdom** A third party who is not a party to this Agreement has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Agreement, but this does not affect any right or remedy of such third party which exists or is available apart from that Act.
 
-14.2 **Germany** Notwithstanding anything to the contrary in the Limitation of Liability section of the Terms (Section 10), Robomotion is also not liable for acts of simple negligence (unless they cause injuries to or death of any person), except when they are caused by a breach of any substantial contractual obligations (vertragswesentliche Pflichten).
+15.2 **Germany** Notwithstanding anything to the contrary in the Limitation of Liability section of the Terms (Section 10), Robomotion is also not liable for acts of simple negligence (unless they cause injuries to or death of any person), except when they are caused by a breach of any substantial contractual obligations (vertragswesentliche Pflichten).
 
 End of Agreement
