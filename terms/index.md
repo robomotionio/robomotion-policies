@@ -6,7 +6,7 @@ description: All the terms that you agree to when you register for a Robomotion 
 
 # Robomotion Terms of Service
 
-*Last updated: July 18, 2022*
+*Last updated: July 27, 2022*
 
 By using this web site ("Website"), or any services (“Service” AND COLLECTIVELY, THE “Services”) of Robomotion Corporation ("Robomotion", “WE” OR “US”), you are agreeing to be bound by the following terms and conditions ("Terms of Use"). Certain features of the Service may be subject to additional guidelines, terms, or rules, which will be posted on the Service in connection with such features. All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
 
