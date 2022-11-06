@@ -260,7 +260,7 @@ Users may opt out of receiving targeted advertising on websites through members 
 
 If you choose to opt-out of targeted advertisements, you will still see advertisements online but they may not be relevant to you. Even if you do choose to opt out, not all companies that serve online behavioral advertising are included in this list, and so you may still receive some cookies and tailored advertisements from companies that are not listed.
 
-For more information about how we collect, use and share your information, see our Privacy Policy.
+For more information about how we collect, use and share your information, see our Privacy Policy and our [Information Security Policy](/legal/infosec).
 
 Changes
 
