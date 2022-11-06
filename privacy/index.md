@@ -6,7 +6,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Robomotion Privacy Policy
 
-*Last updated: July 18, 2022*
+*Last updated: Nov 6, 2022*
 
 This “Privacy Policy” describes the privacy practices of Robomotion Corporation and our subsidiaries and affiliates (collectively, “Robomotion”, “we”, “us”, or “our”) in connection with the [robomotion.io](https://robomotion.io) website and any other website or mobile application that we own or control and which posts or links to this Privacy Policy (collectively, the “Service”), and the rights and choices available to individuals with respect to their information.   Robomotion may provide additional or supplemental privacy policies to individuals for specific products or services that we offer at the time we collect personal information. These supplemental privacy policies will govern how we may process the information in the context of the specific product or service.
 We provide important information for individuals located in the European Union and the United Kingdom (collectively, “Europe”) below.
@@ -260,7 +260,7 @@ Users may opt out of receiving targeted advertising on websites through members 
 
 If you choose to opt-out of targeted advertisements, you will still see advertisements online but they may not be relevant to you. Even if you do choose to opt out, not all companies that serve online behavioral advertising are included in this list, and so you may still receive some cookies and tailored advertisements from companies that are not listed.
 
-For more information about how we collect, use and share your information, see our Privacy Policy.
+For more information about how we collect, use and share your information, see our Privacy Policy and our [Information Security Policy](/legal/infosec).
 
 Changes
 
